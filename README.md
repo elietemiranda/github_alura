@@ -1,6 +1,9 @@
+# Sistema de Cadastramento de jogos
 
-#Sistema de Cadastramento de jogos
+> Status do projeto: Em desenvolvimento
 
 Para rodar esse sistema na sua máquina, por favor digite:
 
-npm install react
+````
+node app .js
+````
